@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**kippapollo/kippapollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer vision and machine learning expert with full experiences in tensorflow, darknet, keras, pytorch, opencv and openvino, android, iOS, C#, C++, flask web app, etc.
 
-Here are some ideas to get you started:
+I have done lots of machine learning, computer vision, image processing, writer identification, face detection and recognition projects for 10+ years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a serious developer and I am fully understanding that requirements, communication, quality and timeline are very important in software development.
+
+Detailed requirements and frequent communication, then I will deliver high quality products on time.
+
+When my products are used for customers, I feel happiness.
+
+
+- 🔭 I’m currently working on image processing include face recognition and object detection.
+- 🌱 I’m currently learning Explainable and Generative AI.
+- 👯 I’m looking to collaborate on freelancing.
+- 🤔 I’m looking for help with job or task based on AI, etc.
+- 💬 Ask me about any interesting free.
+- 📫 How to reach me: kippapollo@gmail.com.
+- 😄 Pronouns: AI Revolution!.
+- ⚡ Fun fact: I'm a freelancer.
+
