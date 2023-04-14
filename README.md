@@ -11,7 +11,8 @@ Detailed requirements and frequent communication, then I will deliver high quali
 When my products are used for customers, I feel happiness.
 
 
-- 🔭 I’m currently working on image processing include face recognition and object detection.
+- 🔭 I’m currently working on computer vision include image-to-image, face recognition and object detection.
+- 🔭 I’m currently working on NLP include ChatGPT.
 - 🌱 I’m currently learning Explainable and Generative AI.
 - 👯 I’m looking to collaborate on freelancing.
 - 🤔 I’m looking for help with job or task based on AI, etc.
